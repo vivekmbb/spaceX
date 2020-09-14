@@ -10,7 +10,7 @@ The application can be run live in
 
 The application lighthouse performance is as below
 
-![Alt text](screenshot/performance?raw=true "Performance Chart")
+https://github.com/vivekmbb/spaceX/blob/master/screenshot/performance.PNG?raw=true
 
 ## Available Scripts
 
