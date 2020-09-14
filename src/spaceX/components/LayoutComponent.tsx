@@ -51,7 +51,7 @@ export const LayoutComponent = () => {
       const data = await getResults(constructUriWithParams());
       setResults(data.data);
     } catch (e) {
-      console.log(e);
+      alert("Error Getting data");
     }
   };
 
