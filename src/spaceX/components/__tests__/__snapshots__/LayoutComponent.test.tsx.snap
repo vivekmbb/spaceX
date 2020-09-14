@@ -1,0 +1,345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Component Information Component Layout component 1`] = `
+<div
+  className="StyledBox-sc-13pk1d4-0 chkvLT"
+>
+  <div
+    className="StyledGrid-sc-1wofa1l-0 hPSYfF"
+  >
+    <div
+      className="StyledBox-sc-13pk1d4-0 RcNfk"
+    >
+      <span
+        className="StyledText-sc-1sadyjn-0 eUnrYS"
+      >
+        SpaceX Launch Programs
+      </span>
+    </div>
+    <div
+      className="StyledBox-sc-13pk1d4-0 dHfVzm"
+    >
+      <div
+        className="StyledBox-sc-13pk1d4-0 irFSzw"
+      >
+        <span
+          className="StyledText-sc-1sadyjn-0 eeaybW"
+        >
+          Filters
+        </span>
+        <div
+          className="StyledBox-sc-13pk1d4-0 fPUIqt"
+        >
+          <span
+            className="StyledText-sc-1sadyjn-0 toSoo"
+          >
+            Launch Year
+          </span>
+        </div>
+        <div
+          className="StyledBox-sc-13pk1d4-0 fCcErq"
+          data-testid="button section"
+        >
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2006
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2007
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2008
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2009
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2010
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2011
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2012
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2013
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2014
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2015
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2016
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2017
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2018
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2019
+            </div>
+          </div>
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              2020
+            </div>
+          </div>
+        </div>
+        <div
+          className="StyledBox-sc-13pk1d4-0 dpWyCI"
+        >
+          <span
+            className="StyledText-sc-1sadyjn-0 toSoo"
+          >
+            Successful Launch
+          </span>
+        </div>
+        <div
+          className="StyledBox-sc-13pk1d4-0 fCcErq"
+          data-testid="button section"
+        >
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              True
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              False
+            </div>
+          </div>
+        </div>
+        <div
+          className="StyledBox-sc-13pk1d4-0 dpWyCI"
+        >
+          <span
+            className="StyledText-sc-1sadyjn-0 toSoo"
+          >
+            Successful Landing
+          </span>
+        </div>
+        <div
+          className="StyledBox-sc-13pk1d4-0 fCcErq"
+          data-testid="button section"
+        >
+          <div
+            className="StyledBox-sc-13pk1d4-0 iSmarO"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 IjQKZ"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              True
+            </div>
+            <div
+              className="StyledBox__StyledBoxGap-sc-13pk1d4-1 kxsFh"
+            />
+            <div
+              className="StyledBox-sc-13pk1d4-0 kiMtHO"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              tabIndex={0}
+            >
+              False
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="StyledBox-sc-13pk1d4-0 nJbPu"
+    />
+    <div
+      className="StyledBox-sc-13pk1d4-0 bDHRrK"
+    >
+      <span
+        className="StyledText-sc-1sadyjn-0 dpybyU"
+      >
+        Developed By : Vivek
+      </span>
+    </div>
+  </div>
+</div>
+`;

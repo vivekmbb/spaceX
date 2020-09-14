@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rocket Card Information Component Rocket Card component 1`] = `
+<div
+  className="StyledBox-sc-13pk1d4-0 chkvLT"
+>
+  <div
+    className="StyledBox-sc-13pk1d4-0 hjXPOU"
+  >
+    <div
+      className="StyledBox-sc-13pk1d4-0 bnhMno"
+    >
+      <img
+        alt="Logo"
+        src="https://images2.imgbox.com/5c/36/gbDKf6Y7_o.png"
+      />
+    </div>
+    <div
+      className="StyledBox-sc-13pk1d4-0 iuRqvC"
+    >
+      <span
+        className="StyledText-sc-1sadyjn-0 goDlxF"
+      >
+        Falcon 9 Test Flight #
+        6
+      </span>
+      <span
+        className="StyledText-sc-1sadyjn-0 eHRdKX"
+      >
+        Mission Ids: 
+        <div
+          className="StyledBox-sc-13pk1d4-0 gAsOLC"
+        >
+          <span
+            className="StyledText-sc-1sadyjn-0 cZqPvZ"
+          >
+            -- 
+            EE86F74
+          </span>
+        </div>
+      </span>
+      <span
+        className="StyledText-sc-1sadyjn-0 eHRdKX"
+      >
+        Launch Year:
+         
+        <span
+          className="StyledText-sc-1sadyjn-0 fwYwgT"
+        >
+          2010
+        </span>
+      </span>
+      <span
+        className="StyledText-sc-1sadyjn-0 eHRdKX"
+      >
+        Successful Launch:
+         
+        <span
+          className="StyledText-sc-1sadyjn-0 fwYwgT"
+        >
+          True
+        </span>
+      </span>
+      <span
+        className="StyledText-sc-1sadyjn-0 eHRdKX"
+      >
+        Successful Landing:
+         
+        <span
+          className="StyledText-sc-1sadyjn-0 fwYwgT"
+        >
+          Cape Canaveral Air Force Station Space Launch Complex 40
+        </span>
+      </span>
+    </div>
+  </div>
+</div>
+`;
