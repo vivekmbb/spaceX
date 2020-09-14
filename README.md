@@ -10,7 +10,7 @@ The application can be run live in
 
 The application lighthouse performance is as below
 
-![Alt text](./screenshot/performance "Performance Chart")
+![Alt text](screenshot/performance?raw=true "Performance Chart")
 
 ## Available Scripts
 
@@ -37,7 +37,7 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![Alt text](./screenshot/componentSnapshotTest "Performance Chart")
+![Alt text](screenshot/componentSnapshotTest?raw=true "Performance Chart")
 
 ### `yarn build`
 
