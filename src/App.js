@@ -5,7 +5,7 @@ import { IndexComponent } from "./spaceX/components/IndexComponent";
 function App() {
   return (
     <Switch>
-      <Route path="/" component={IndexComponent} />
+      <Route path="/**" component={IndexComponent} />
     </Switch>
   );
 }
