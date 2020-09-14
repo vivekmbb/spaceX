@@ -43,6 +43,9 @@ export const LayoutComponent = () => {
 
   React.useEffect(() => {
     getData();
+    return () => {
+      history.push("/");
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectYear, selectLaunch, selectLanding]);
 
